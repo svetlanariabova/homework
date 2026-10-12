@@ -1,3 +1,3 @@
-module github.com/USERNAME/golang-basic-homeworks
+module github.com/svetlanariabova/golang-basic-homeworks
 
 go 1.26
